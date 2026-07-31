@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Folder Silhouette -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M28,38 C28,35.8 29.8,34 32,34 L46,34 C47.5,34 48.8,34.8 49.5,36.1 L51.5,40 L76,40 C78.2,40 80,41.8 80,44 L80,72 C80,74.2 78.2,76 76,76 L32,76 C29.8,76 28,74.2 28,72 Z" />
+
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M28,44 L80,44 L80,72 C80,74.2 78.2,76 76,76 L32,76 C29.8,76 28,74.2 28,72 Z" />
+
+    <!-- Wi-Fi signal overlay -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,48 C60,48 65.5,50.5 69.5,54.5 L66.6,57.4 C63.4,54.2 58.9,52.2 54,52.2 C49.1,52.2 44.6,54.2 41.4,57.4 L38.5,54.5 C42.5,50.5 48,48 54,48 Z" />
+
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,55.5 C57.8,55.5 61.3,57.1 63.8,59.6 L60.9,62.5 C59.1,60.7 56.7,59.6 54,59.6 C51.3,59.6 48.9,60.7 47.1,62.5 L44.2,59.6 C46.7,57.1 50.2,55.5 54,55.5 Z" />
+
+    <!-- Center Wifi Dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,66.5 C55.7,66.5 57,67.8 57,69.5 C57,71.2 55.7,72.5 54,72.5 C52.3,72.5 51,71.2 51,69.5 C51,67.8 52.3,66.5 54,66.5 Z" />
+</vector>

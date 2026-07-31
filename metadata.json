@@ -1,0 +1,6 @@
+{
+  "name": "Wi-Fi Folder Share",
+  "description": "Share local phone folders over Wi-Fi via FTP and Web file server for instant access on any phone, laptop, or PC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
